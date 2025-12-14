@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""pepe"""
+"""documentacion valida para que el cheker no llore"""
 
 
 def add(a: float, b: float) -> float:
-    """pepe"""
+    """documentacion  valida para que el checker no llore"""
     return a + b
